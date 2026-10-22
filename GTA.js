@@ -1,4 +1,4 @@
-onst objectif = 50000;
+const objectif = 50000;
 const cotisationParSemaine = 4000;
 let total = 0;
 let semaines = 0;
