@@ -1,0 +1,53 @@
+// Partie1
+PS C:\Users\DELL\Documents\recette-cinema> node partie1.js
+11
+1500
+12
+1500
+13
+1500
+14
+1500
+15
+1500
+16
+2500
+17
+2500
+18
+2500
+19
+2500
+20
+2500
+Recette totale : 20000 FCFA
+Le nombre de billets vendus à 1500 FCFA : 5 personnes
+Le nombre de billets vendus à 2500 FCFA : 5 personnes
+PS C:\Users\DELL\Documents\recette-cinema> 
+
+//Partie2
+PS C:\Users\DELL\Documents\recette-cinema> node partie2.js
+11
+1500 FCFA
+12
+1500 FCFA
+13
+1500 FCFA
+14
+1500 FCFA
+15
+1500 FCFA
+16
+2500 FCFA
+17
+2500 FCFA
+18
+2000 FCFA
+19
+2000 FCFA
+20
+2000 FCFA
+Recette totale : 18500 FCFA
+Le nombre de billets vendus à 1500 FCFA : 5
+Le nombre de billets vendus à 2500 FCFA : 5
+PS C:\Users\DELL\Documents\recette-cinema> 
