@@ -41,4 +41,10 @@ console.log("Client : " + client);
 console.log("Code du plat : " + codePlat);
 console.log("Quantité : " + quantite);
 
+//5. VERIFIEZ LE FONCTIONNEMENT.
+if (montantVerse >= total) {
+  console.log(`Monnaie à rendre : ${montantVerse - total} FCFA`);
+} else {
+  console.log(`Montant manquant : ${total - montantVerse} FCFA`);
+}
 
