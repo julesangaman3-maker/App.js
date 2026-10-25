@@ -1,0 +1,7 @@
+//1.Préparez votre peojet.
+
+//2. DECLAREZ LES DONNEES DE LA COMMANDE.
+PS C:\Users\DELL\Documents\cantine-NDIAMOI-ANGAMAN> node .\cantine.js
+3
+client Awa ,code du plat 1 , quantite3 ,Montant versé 5000
+
