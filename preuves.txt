@@ -44,3 +44,19 @@ Client : Awa
 Code du plat : 1
 Quantité : 3
 
+**  pour montant versé est: 3000 FCFA**
+PS C:\Users\DELL\Documents\cantine-NDIAMOI-ANGAMAN> node .\cantine.js
+3
+client Awa ,code du plat 2 , quantite2 ,Montant versé 3000
+Montant total de la commande est : 4000
+4000
+Portion 1 : 2000 FCFA
+Portion 2 : 2000 FCFA
+Total : 4000 FCFA
+Récapitulatif de la commande :
+Client : Awa
+Code du plat : 2
+Quantité : 2
+Montant manquant : 1000 FCFA
+
+
