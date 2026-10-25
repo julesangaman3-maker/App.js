@@ -4,4 +4,4 @@
 PS C:\Users\DELL\Documents\cantine-NDIAMOI-ANGAMAN> node .\cantine.js
 3
 client Awa ,code du plat 1 , quantite3 ,Montant versé 5000
-
+Montant total de la commande est : 4500
