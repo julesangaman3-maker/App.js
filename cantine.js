@@ -1,13 +1,13 @@
 // 2. DECLAREZ LES DONNEES DE LA COMMANDE.
 const numeroCommande = 3;
 const client = "Awa";
-const codePlat = 3;
-const quantite = 4;
+const codePlat = 1;
+const quantite = "3";
 const montantVerse = 4000;
 
 console.log(numeroCommande);
 console.log("client " + client + " ,code du plat " + codePlat + " , quantite" + quantite + " ,Montant versé " + montantVerse) 
-
+ const quantiteC = Number(quantite)
 //3. CALCULEZ LE MONTANT DE LA COMMANDE.
 let prixunitaire = 0;
 
