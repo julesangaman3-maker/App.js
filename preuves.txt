@@ -31,14 +31,30 @@ Quantité : 3
 Récapitulatiftulatif de la commande :
 
 **premier cas pour montant est: 5000 FCFA**
-Client : Awa
-Code du plat : 1
-Quantité : 3
-Monnaie à rendre : 500 FCFA
-
-**premier cas pour montant est: 3000 FCFA**
+3
+client Awa ,code du plat 1 , quantite3 ,Montant versé 5000
+Montant total de la commande est : 4500
+4500
+Portion 1 : 1500 FCFA
+Portion 2 : 1500 FCFA
+Portion 3 : 1500 FCFA
+Total : 4500 FCFA
 Récapitulatif de la commande :
 Client : Awa
 Code du plat : 1
 Quantité : 3
-Montant manquant : 1500 FCFA
+
+**premier cas pour montant est: 3000 FCFA**
+PS C:\Users\DELL\Documents\cantine-NDIAMOI-ANGAMAN> node .\cantine.js
+3
+client Awa ,code du plat 2 , quantite2 ,Montant versé 3000
+Montant total de la commande est : 4000
+4000
+Portion 1 : 2000 FCFA
+Portion 2 : 2000 FCFA
+Total : 4000 FCFA
+Récapitulatif de la commande :
+Client : Awa
+Code du plat : 2
+Quantité : 2
+Montant manquant : 1000 FCFA
