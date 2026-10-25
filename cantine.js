@@ -28,3 +28,17 @@ function calculerTotal(prixunitaire, quantite) {
 
 const totalCommande = calculerTotal(prixunitaire, quantite);
 console.log("Montant total de la commande est : " + totalCommande);
+
+//4. AFFICHEZ LES RECAPITULATIF.
+const total = calculerTotal(prixunitaire, quantite);
+console.log(total)
+for (let i = 1; i <= quantite; i++) {
+  console.log("Portion " + i + " : " + prixunitaire + " FCFA");
+}
+console.log("Total : " + total + " FCFA");
+console.log("Récapitulatif de la commande :");
+console.log("Client : " + client);
+console.log("Code du plat : " + codePlat);
+console.log("Quantité : " + quantite);
+
+

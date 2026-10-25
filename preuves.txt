@@ -3,5 +3,24 @@
 //2. DECLAREZ LES DONNEES DE LA COMMANDE.
 PS C:\Users\DELL\Documents\cantine-NDIAMOI-ANGAMAN> node .\cantine.js
 3
+
+/3. CALCULEZ LE MONTANT DE LA COMMANDE.
+PS C:\Users\DELL\Documents\cantine-NDIAMOI-ANGAMAN> node .\cantine.js
+3
 client Awa ,code du plat 1 , quantite3 ,Montant versé 5000
 Montant total de la commande est : 4500
+
+//4. AFFICHEZ LES RECAPITULATIF.
+PS C:\Users\DELL\Documents\cantine-NDIAMOI-ANGAMAN> node .\cantine.js
+3
+client Awa ,code du plat 1 , quantite3 ,Montant versé 5000
+Montant total de la commande est : 4500
+4500
+Portion 1 : 1500 FCFA
+Portion 2 : 1500 FCFA
+Portion 3 : 1500 FCFA
+Total : 4500 FCFA
+Récapitulatif de la commande :
+Client : Awa
+Code du plat : 1
+Quantité : 3
