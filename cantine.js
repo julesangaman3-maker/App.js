@@ -1,9 +1,9 @@
 // 2. DECLAREZ LES DONNEES DE LA COMMANDE.
 const numeroCommande = 3;
 const client = "Awa";
-const codePlat = 2;
-const quantite = 2;
-const montantVerse = 3000;
+const codePlat = 3;
+const quantite = 4;
+const montantVerse = 4000;
 
 console.log(numeroCommande);
 console.log("client " + client + " ,code du plat " + codePlat + " , quantite" + quantite + " ,Montant versé " + montantVerse) 
