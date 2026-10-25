@@ -37,3 +37,8 @@ Quantité : 3
 Monnaie à rendre : 500 FCFA
 
 **premier cas pour montant est: 3000 FCFA**
+Récapitulatif de la commande :
+Client : Awa
+Code du plat : 1
+Quantité : 3
+Montant manquant : 1500 FCFA

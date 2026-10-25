@@ -3,7 +3,7 @@ const numeroCommande = 3;
 const client = "Awa";
 const codePlat = 1;
 const quantite = 3;
-const montantVerse = 5000;
+const montantVerse = 3000;
 
 console.log(numeroCommande);
 console.log("client " + client + " ,code du plat " + codePlat + " , quantite" + quantite + " ,Montant versé " + montantVerse) 
