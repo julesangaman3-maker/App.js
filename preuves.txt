@@ -29,8 +29,11 @@ Quantité : 3
 
 //5. VERIFIEZ LE FONCTIONNEMENT.
 Récapitulatiftulatif de la commande :
-**CODE DU PLAT EST**
+
+**premier cas pour montant est: 5000 FCFA**
 Client : Awa
 Code du plat : 1
 Quantité : 3
 Monnaie à rendre : 500 FCFA
+
+**premier cas pour montant est: 3000 FCFA**
